@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\A03DataStructuresWP\bin\Debug\A03DataStructuresWP.exe.config
+C:\Users\Justin\source\repos\A03DataStructuresWP\bin\Debug\A03DataStructuresWP.exe
+C:\Users\Justin\source\repos\A03DataStructuresWP\bin\Debug\A03DataStructuresWP.pdb
+C:\Users\Justin\source\repos\A03DataStructuresWP\obj\Debug\A03DataStructuresWP.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A03DataStructuresWP\obj\Debug\A03DataStructuresWP.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A03DataStructuresWP\obj\Debug\A03DataStructuresWP.exe
+C:\Users\Justin\source\repos\A03DataStructuresWP\obj\Debug\A03DataStructuresWP.pdb

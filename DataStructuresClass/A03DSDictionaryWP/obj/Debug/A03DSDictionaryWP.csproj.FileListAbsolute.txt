@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\A03DSDictionaryWP\bin\Debug\A03DSDictionaryWP.exe.config
+C:\Users\Justin\source\repos\A03DSDictionaryWP\bin\Debug\A03DSDictionaryWP.exe
+C:\Users\Justin\source\repos\A03DSDictionaryWP\bin\Debug\A03DSDictionaryWP.pdb
+C:\Users\Justin\source\repos\A03DSDictionaryWP\obj\Debug\A03DSDictionaryWP.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A03DSDictionaryWP\obj\Debug\A03DSDictionaryWP.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A03DSDictionaryWP\obj\Debug\A03DSDictionaryWP.exe
+C:\Users\Justin\source\repos\A03DSDictionaryWP\obj\Debug\A03DSDictionaryWP.pdb

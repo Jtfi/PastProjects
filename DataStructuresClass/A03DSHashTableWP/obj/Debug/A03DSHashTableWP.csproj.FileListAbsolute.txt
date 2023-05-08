@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\A03DSHashTableWP\bin\Debug\A03DSHashTableWP.exe.config
+C:\Users\Justin\source\repos\A03DSHashTableWP\bin\Debug\A03DSHashTableWP.exe
+C:\Users\Justin\source\repos\A03DSHashTableWP\bin\Debug\A03DSHashTableWP.pdb
+C:\Users\Justin\source\repos\A03DSHashTableWP\obj\Debug\A03DSHashTableWP.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A03DSHashTableWP\obj\Debug\A03DSHashTableWP.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A03DSHashTableWP\obj\Debug\A03DSHashTableWP.exe
+C:\Users\Justin\source\repos\A03DSHashTableWP\obj\Debug\A03DSHashTableWP.pdb
