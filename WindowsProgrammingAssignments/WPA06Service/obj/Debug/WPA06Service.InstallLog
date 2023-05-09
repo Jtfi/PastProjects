@@ -1,0 +1,69 @@
+﻿Installing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Installing service TheService...
+Service TheService has been successfully installed.
+Creating EventLog source TheService in log Application...
+Committing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Uninstalling assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Removing EventLog source TheService.
+Service TheService is being removed from the system...
+Service TheService was successfully removed from the system.
+Installing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Installing service TheService...
+Creating EventLog source TheService in log Application...
+Rolling back assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Restoring event log to previous state for source TheService.
+Installing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Installing service TheService...
+Service TheService has been successfully installed.
+Creating EventLog source TheService in log Application...
+Committing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Uninstalling assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Removing EventLog source TheService.
+Warning: The source TheService is not registered on the local machine.
+Service TheService is being removed from the system...
+Service TheService was successfully removed from the system.
+Installing assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Installing service TheService...
+Creating EventLog source TheService in log Application...
+Rolling back assembly 'C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.InstallLog
+   assemblypath = C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+Restoring event log to previous state for source TheService.

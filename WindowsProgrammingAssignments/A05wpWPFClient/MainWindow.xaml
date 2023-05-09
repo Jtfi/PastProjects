@@ -1,0 +1,49 @@
+﻿<Window x:Class="A05wpWPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A05wpWPFClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="ipAddressPortNameGrid" Visibility="Visible" Margin="0,0,-0.4,0">
+            <!--IP Address Prompt + Text box-->
+            <Label x:Name="ipAddressLabel" Content="Please Enter Your IP Address Below:" HorizontalAlignment="Left" Margin="304,35,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="ipAddressTextbox" HorizontalAlignment="Left" Height="23" Margin="340,66,0,0" TextWrapping="Wrap" Text="IP Address" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="ipError" FontWeight="ExtraBold" HorizontalAlignment="Left" Margin="281,101,0,0" VerticalAlignment="Top"/>
+
+
+            <!--Port Number Prompt + Text box-->
+            <Label x:Name="portNumLabel" Content="Please Enter Your Port Number Below:" HorizontalAlignment="Left" Margin="297,140,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="portNumTextbox" HorizontalAlignment="Left" Height="23" Margin="340,171,0,0" TextWrapping="Wrap" Text="Port Number" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="portError" FontWeight="ExtraBold" HorizontalAlignment="Left" Margin="297,211,0,0" VerticalAlignment="Top"/>
+
+            <!--Name Prompt + Text box-->
+            <Label x:Name="nameLabel" Content="Please Enter Your Name Below:" HorizontalAlignment="Left" Margin="313,249,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="nameTextbox" HorizontalAlignment="Left" Height="23" Margin="340,280,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="nameError" FontWeight="ExtraBold"  HorizontalAlignment="Left" Margin="297,312,0,0" VerticalAlignment="Top"/>
+
+            <!--Enter the info button-->
+            <Button Content="Enter Info" HorizontalAlignment="Left" Margin="362,342,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        </Grid>
+        <Grid x:Name="gameplayWithServer" Visibility="Hidden">
+            <!--Server will say in this label if it connects-->
+            <Label x:Name="connectedLabel" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+            <!--Label to say ranges for user to guess + Textbox for user input + the button to submit the info-->
+            <Label x:Name="gameRangesLabel" HorizontalAlignment="Left" Margin="322,38,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="gameGuessTextbox" HorizontalAlignment="Left" Height="23" Margin="322,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="guessNumberButton" Content="Enter Guess" HorizontalAlignment="Left" Margin="322,103,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+            <Label x:Name="guessError" HorizontalAlignment="Left" Margin="322,140,0,0" VerticalAlignment="Top" />
+
+            <!--Button to exit + Label to clairify that they want to exit-->
+            <Label x:Name="exitLabel" HorizontalAlignment="Left" Margin="614,366,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.4,0.5"/>
+            <Button x:Name="exitButton" Content="Exit Game" HorizontalAlignment="Left" Margin="709,391,0,0" VerticalAlignment="Top" Width="75" Click="exitButton_Click"/>
+
+            <Label x:Name="invisibleLabel" HorizontalAlignment="Left" Margin="513,455,0,-45" VerticalAlignment="Top" />
+        </Grid>
+
+    </Grid>
+
+</Window>

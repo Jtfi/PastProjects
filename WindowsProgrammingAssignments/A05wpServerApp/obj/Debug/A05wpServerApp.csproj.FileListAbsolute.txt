@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\A05wpServerApp\bin\Debug\A05wpServerApp.exe.config
+C:\Users\Justin\source\repos\A05wpServerApp\bin\Debug\A05wpServerApp.exe
+C:\Users\Justin\source\repos\A05wpServerApp\bin\Debug\A05wpServerApp.pdb
+C:\Users\Justin\source\repos\A05wpServerApp\obj\Debug\A05wpServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A05wpServerApp\obj\Debug\A05wpServerApp.exe
+C:\Users\Justin\source\repos\A05wpServerApp\obj\Debug\A05wpServerApp.pdb
+C:\Users\Justin\source\repos\A05wpServerApp\obj\Debug\A05wpServerApp.csproj.AssemblyReference.cache

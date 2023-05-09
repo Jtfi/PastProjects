@@ -1,0 +1,10 @@
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\WPA06Service\bin\Debug\WPA06Service.exe.config
+C:\Users\Justin\source\repos\WPA06Service\bin\Debug\WPA06Service.exe
+C:\Users\Justin\source\repos\WPA06Service\bin\Debug\WPA06Service.pdb
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.TheService.resources
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.exe
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.pdb
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.ProjectInstaller.resources
+C:\Users\Justin\source\repos\WPA06Service\obj\Debug\WPA06Service.csproj.AssemblyReference.cache

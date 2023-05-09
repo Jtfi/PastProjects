@@ -1,0 +1,17 @@
+C:\Users\Justin\source\repos\A02wpfApplication\bin\Debug\A02wpfApplication.exe.config
+C:\Users\Justin\source\repos\A02wpfApplication\bin\Debug\A02wpfApplication.exe
+C:\Users\Justin\source\repos\A02wpfApplication\bin\Debug\A02wpfApplication.pdb
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\App.g.cs
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication_MarkupCompile.cache
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication_MarkupCompile.lref
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.g.resources
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.Properties.Resources.resources
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.exe
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\A02wpfApplication.pdb
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\AboutDialog.g.cs
+C:\Users\Justin\source\repos\A02wpfApplication\obj\Debug\AboutDialog.baml

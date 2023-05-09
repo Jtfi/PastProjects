@@ -1,0 +1,7 @@
+C:\Users\Justin\source\repos\A01WindowsProg\bin\Debug\A01WindowsProg.exe.config
+C:\Users\Justin\source\repos\A01WindowsProg\bin\Debug\A01WindowsProg.exe
+C:\Users\Justin\source\repos\A01WindowsProg\bin\Debug\A01WindowsProg.pdb
+C:\Users\Justin\source\repos\A01WindowsProg\obj\Debug\A01WindowsProg.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A01WindowsProg\obj\Debug\A01WindowsProg.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A01WindowsProg\obj\Debug\A01WindowsProg.exe
+C:\Users\Justin\source\repos\A01WindowsProg\obj\Debug\A01WindowsProg.pdb

@@ -1,0 +1,15 @@
+C:\Users\Justin\source\repos\A05wpWPFClient\bin\Debug\A05wpWPFClient.exe.config
+C:\Users\Justin\source\repos\A05wpWPFClient\bin\Debug\A05wpWPFClient.exe
+C:\Users\Justin\source\repos\A05wpWPFClient\bin\Debug\A05wpWPFClient.pdb
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\App.g.cs
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient_MarkupCompile.cache
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient_MarkupCompile.lref
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\MainWindow.baml
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.g.resources
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.Properties.Resources.resources
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.exe
+C:\Users\Justin\source\repos\A05wpWPFClient\obj\Debug\A05wpWPFClient.pdb
